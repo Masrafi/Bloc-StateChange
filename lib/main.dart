@@ -1,5 +1,5 @@
-import 'package:blocwithmasrafi/app_bloc.dart';
-import 'package:blocwithmasrafi/home_screen.dart';
+import 'package:blocwithmasrafi/bloc/app_bloc.dart';
+import 'package:blocwithmasrafi/screen/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

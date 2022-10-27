@@ -1,9 +1,8 @@
-import 'package:blocwithmasrafi/app_bloc.dart';
-import 'package:blocwithmasrafi/app_event.dart';
-import 'package:blocwithmasrafi/app_state.dart';
+import 'package:blocwithmasrafi/bloc/app_bloc.dart';
+import 'package:blocwithmasrafi/bloc/app_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-
+import '../bloc/app_event.dart';
 import 'second_screen.dart';
 
 class HomeScreen extends StatelessWidget {
